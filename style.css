@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Final Fantasy';
+    src: url('fonts/Final-Fantasy.ttf') format('truetype');
+  }
+  
+body {
+  font-family: 'Final Fantasy', sans-serif;
+  letter-spacing: 2px;
+  background-color: blue;
+  color: white;
+  border: 5px solid white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px white;
+  padding: 10px 20px 20px 20px; 
+}
+
+button {
+  font-family: inherit;
+  padding: 10px;
+}
+  
